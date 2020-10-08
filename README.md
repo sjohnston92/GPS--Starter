@@ -2,7 +2,7 @@
 
 ## Steps to Setup
 
-1. git clone git@github.com:sjohnston92/sjohnston92-React-Rails-Starter.git `project-name`
+1. git clone git@github.com:sjohnston92/GPS--Starter.git `project-name`
 
 2. cd `project-name`
 
